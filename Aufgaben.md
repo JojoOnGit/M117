@@ -1,6 +1,6 @@
 # M117 - Aufgaben
 
-** 1. ** ip.src=={IP ADDRESSE} and ip.dst=={IP ADDRESSE}
+* 1. * ip.src=={IP ADDRESSE} and ip.dst=={IP ADDRESSE}
       ping 127.0.0.1 
       
 ** 2. ** Es wird angezeigt was für requests und replies ankommen. Wichtig ist, dass man nicht im WLAN schaut sondern im Loopback Adapter.
